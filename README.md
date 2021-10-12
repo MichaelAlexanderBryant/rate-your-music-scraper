@@ -2,7 +2,7 @@
 
 This scraper can retrieve the following items from rateyourmusic.com charts:
 * ranking
-* album/single name
+* album name
 * artist name
 * release date
 * genres
