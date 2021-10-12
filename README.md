@@ -1,8 +1,8 @@
 # rateyourmusic-scraper
 
-This scraper can retrieve the following items from rateyourmusic.com album charts:
+This scraper can retrieve the following items from rateyourmusic.com charts:
 * ranking
-* album name
+* album/single name
 * artist name
 * release date
 * genres
