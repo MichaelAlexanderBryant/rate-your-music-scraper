@@ -2,7 +2,7 @@
 
 This repo contains two different scrapers for rateyourmusic.com.
 
-## scraper.py
+## scraper_charts.py
 
 This scraper can retrieve the following items from rateyourmusic.com charts:
 * ranking
