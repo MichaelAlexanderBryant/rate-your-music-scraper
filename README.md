@@ -17,7 +17,7 @@ This scraper can retrieve the following items from rateyourmusic.com charts:
 
 ## scraper_reviews.py
 
-This scraper can retrieve the following items from rateyourmusic.com review pages:
+This scraper can retrieve the following items from rateyourmusic.com reviews:
 * users
 * reviews
 * ratings
