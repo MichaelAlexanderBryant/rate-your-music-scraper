@@ -1,5 +1,7 @@
 # rateyourmusic-scraper
 
+## scraper.py
+
 This scraper can retrieve the following items from rateyourmusic.com charts:
 * ranking
 * album name
@@ -10,3 +12,10 @@ This scraper can retrieve the following items from rateyourmusic.com charts:
 * average rating
 * number of ratings
 * number of reviews
+
+## scraper_reviews.py
+
+This scraper can retrieve the following items from rateyourmusic.com review pages:
+* users
+* reviews
+* ratings
