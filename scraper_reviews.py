@@ -8,7 +8,7 @@ from selenium.common.exceptions import NoSuchElementException
 #function for requesting number of reviews
 def get_album_reviews(num_reviews, verbose):
     
-    '''Gathers albums as a dataframe, scraped from rateyourmusic.com'''   
+    '''Gathers reviews as a dataframe, scraped from rateyourmusic.com'''   
     
     #initialize chrome driver
     driver = webdriver.Chrome(executable_path="C:/Users/malex/Desktop/rateyourmusic/chromedriver.exe")
