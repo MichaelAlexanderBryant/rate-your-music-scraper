@@ -1,10 +1,10 @@
-# rateyourmusic-scraper
+# rate-your-music-scraper
 
-This repo contains two different scrapers for rateyourmusic.com.
+This repo contains two different scrapers for [RYM (rateyourmusic.com)](rateyourmusic.com).
 
 ## scraper_charts.py
 
-This scraper can retrieve the following items from rateyourmusic.com charts:
+This scraper can retrieve the following items from RYM charts:
 * ranking
 * album name
 * artist name
@@ -17,7 +17,7 @@ This scraper can retrieve the following items from rateyourmusic.com charts:
 
 ## scraper_reviews.py
 
-This scraper can retrieve the following items from rateyourmusic.com reviews:
+This scraper can retrieve the following items from RYM reviews:
 * users
 * reviews
 * ratings
